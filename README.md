@@ -1,2 +1,2 @@
 # create-demo
-This is demo for github 
+This is demo for Github and Git
